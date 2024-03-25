@@ -1,0 +1,3 @@
+hotkey=b
+clicks=10
+interval=0.01
